@@ -1,0 +1,20 @@
+# Configuration files (contain secrets)
+includes/config.php
+includes/config.cap.php
+includes/config.mail.php
+includes/config.settings.php
+includes/soap.conf.php
+
+# Large files
+download/files/*.zip
+download/files/*.rar
+download/files/*.torrent
+
+# Vendor (composer)
+vendor/
+
+# User uploaded images (if any sensitive)
+# img/accountimg/
+
+# Logs
+logs/

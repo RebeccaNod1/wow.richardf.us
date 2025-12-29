@@ -1,0 +1,4555 @@
+{
+	"asset": {
+		"version": "2.0",
+		"generator": "wow.export v0.1.65 win-x64 [d1c6caee-c9d0-469b-8ef3-69abea558672]"
+	},
+	"nodes": [
+		{
+			"name": "nightelfmale_hd",
+			"children": [
+				1,
+				438,
+				439,
+				440,
+				441,
+				442,
+				443,
+				444,
+				445,
+				446,
+				447,
+				448,
+				449,
+				450,
+				451,
+				452
+			]
+		},
+		{
+			"name": "nightelfmale_hd",
+			"children": [
+				2,
+				288,
+				290,
+				292,
+				294,
+				296,
+				298,
+				300,
+				302,
+				304,
+				306,
+				308,
+				310,
+				312,
+				314,
+				316
+			]
+		},
+		{
+			"name": "bone_Main_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				3
+			]
+		},
+		{
+			"name": "bone_Main",
+			"children": [
+				4
+			]
+		},
+		{
+			"name": "bone_Root_p",
+			"translation": [
+				0,
+				1.546298861503601,
+				0
+			],
+			"children": [
+				5
+			]
+		},
+		{
+			"name": "bone_Root",
+			"children": [
+				6,
+				8
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Pelvis1_p",
+			"translation": [
+				0.01801239885389805,
+				-0.06137895584106445,
+				0
+			],
+			"children": [
+				7
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Pelvis1",
+			"children": [
+				10,
+				12,
+				14,
+				16,
+				18,
+				318,
+				326
+			]
+		},
+		{
+			"name": "bone_SpineLow_p",
+			"translation": [
+				-0.0023424425162374973,
+				-0.009228229522705078,
+				0
+			],
+			"children": [
+				9
+			]
+		},
+		{
+			"name": "bone_SpineLow",
+			"children": [
+				20,
+				320,
+				322,
+				324,
+				328
+			]
+		},
+		{
+			"name": "bone_4_p",
+			"translation": [
+				0.12872683070600033,
+				-0.07972598075866699,
+				0
+			],
+			"children": [
+				11
+			]
+		},
+		{
+			"name": "bone_4",
+			"children": [
+				22
+			]
+		},
+		{
+			"name": "bone_EXP_C1_LoinBk1_p",
+			"translation": [
+				-0.19701221026480198,
+				-0.08009874820709229,
+				0
+			],
+			"children": [
+				13
+			]
+		},
+		{
+			"name": "bone_EXP_C1_LoinBk1",
+			"children": [
+				24
+			]
+		},
+		{
+			"name": "bone_EXP_R1_Leg1Twist1_p",
+			"translation": [
+				0.012730007991194725,
+				-0.1261380910873413,
+				0.13188929855823517
+			],
+			"children": [
+				15
+			]
+		},
+		{
+			"name": "bone_EXP_R1_Leg1Twist1",
+			"children": [
+				26,
+				28
+			]
+		},
+		{
+			"name": "bone_EXP_L1_Leg1Twist1_p",
+			"translation": [
+				0.012730007991194725,
+				-0.1261380910873413,
+				-0.13188929855823517
+			],
+			"children": [
+				17
+			]
+		},
+		{
+			"name": "bone_EXP_L1_Leg1Twist1",
+			"children": [
+				30,
+				32
+			]
+		},
+		{
+			"name": "bone_Buckle_p",
+			"translation": [
+				0.14770991168916225,
+				-0.05119681358337402,
+				0
+			],
+			"children": [
+				19
+			]
+		},
+		{
+			"name": "bone_Buckle",
+			"children": [
+				330
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Spine2_p",
+			"translation": [
+				-0.037797731813043356,
+				0.134832501411438,
+				0
+			],
+			"children": [
+				21
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Spine2",
+			"children": [
+				34
+			]
+		},
+		{
+			"name": "bone_10_p",
+			"translation": [
+				0.04927530884742737,
+				-0.16678762435913086,
+				0
+			],
+			"children": [
+				23
+			]
+		},
+		{
+			"name": "bone_10",
+			"children": [
+				36
+			]
+		},
+		{
+			"name": "bone_EXP_C1_LoinBk2_p",
+			"translation": [
+				-0.051986679434776306,
+				-0.12709403038024902,
+				0
+			],
+			"children": [
+				25
+			]
+		},
+		{
+			"name": "bone_EXP_C1_LoinBk2",
+			"children": [
+				38
+			]
+		},
+		{
+			"name": "bone_EXP_R1_Leg1Twist3_p",
+			"translation": [
+				-0.022159566171467304,
+				-0.5809751152992249,
+				0.051646262407302856
+			],
+			"children": [
+				27
+			]
+		},
+		{
+			"name": "bone_EXP_R1_Leg1Twist3"
+		},
+		{
+			"name": "bone_EXP_R1_Leg2Twist1_p",
+			"translation": [
+				-0.022159566171467304,
+				-0.5809751152992249,
+				0.051646262407302856
+			],
+			"children": [
+				29
+			]
+		},
+		{
+			"name": "bone_EXP_R1_Leg2Twist1",
+			"children": [
+				40,
+				340
+			]
+		},
+		{
+			"name": "bone_EXP_L1_Leg2Twist1_p",
+			"translation": [
+				-0.022159559652209282,
+				-0.5809749960899353,
+				-0.05164624750614166
+			],
+			"children": [
+				31
+			]
+		},
+		{
+			"name": "bone_EXP_L1_Leg2Twist1",
+			"children": [
+				42,
+				346
+			]
+		},
+		{
+			"name": "bone_EXP_L1_Leg1Twist3_p",
+			"translation": [
+				-0.022159559652209282,
+				-0.5809749960899353,
+				-0.05164624750614166
+			],
+			"children": [
+				33
+			]
+		},
+		{
+			"name": "bone_EXP_L1_Leg1Twist3"
+		},
+		{
+			"name": "bone_Chest_p",
+			"translation": [
+				-0.04466596990823746,
+				0.16203784942626953,
+				0
+			],
+			"children": [
+				35
+			]
+		},
+		{
+			"name": "bone_Chest",
+			"children": [
+				44,
+				46,
+				48,
+				50,
+				332,
+				334,
+				336,
+				338,
+				342,
+				344,
+				348,
+				350,
+				352,
+				354,
+				356,
+				358,
+				360,
+				362,
+				364,
+				366,
+				368
+			]
+		},
+		{
+			"name": "bone_17_p",
+			"translation": [
+				0.005381166934967041,
+				-0.21684110164642334,
+				0
+			],
+			"children": [
+				37
+			]
+		},
+		{
+			"name": "bone_17"
+		},
+		{
+			"name": "bone_EXP_C1_LoinBk3_p",
+			"translation": [
+				-0.004395961761474609,
+				-0.23541009426116943,
+				0
+			],
+			"children": [
+				39
+			]
+		},
+		{
+			"name": "bone_EXP_C1_LoinBk3"
+		},
+		{
+			"name": "bone_19_p",
+			"translation": [
+				-0.12844293098896742,
+				-0.5870373994112015,
+				0.0545181930065155
+			],
+			"children": [
+				41
+			]
+		},
+		{
+			"name": "bone_19",
+			"children": [
+				52
+			]
+		},
+		{
+			"name": "bone_20_p",
+			"translation": [
+				-0.12844295240938663,
+				-0.5870374590158463,
+				-0.0545182079076767
+			],
+			"children": [
+				43
+			]
+		},
+		{
+			"name": "bone_20",
+			"children": [
+				54
+			]
+		},
+		{
+			"name": "bone_ShoulderR_p",
+			"translation": [
+				-0.02347724139690399,
+				0.20251846313476562,
+				0.05068863928318024
+			],
+			"children": [
+				45
+			]
+		},
+		{
+			"name": "bone_ShoulderR",
+			"children": [
+				56,
+				372
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Cape1_p",
+			"translation": [
+				-0.1570134311914444,
+				0.0675879716873169,
+				0
+			],
+			"children": [
+				47
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Cape1",
+			"children": [
+				58
+			]
+		},
+		{
+			"name": "bone_ShoulderL_p",
+			"translation": [
+				-0.02347715198993683,
+				0.20251774787902832,
+				-0.05068862438201904
+			],
+			"children": [
+				49
+			]
+		},
+		{
+			"name": "bone_ShoulderL",
+			"children": [
+				60,
+				370
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Neck1_p",
+			"translation": [
+				-0.0015866830945014954,
+				0.3233976364135742,
+				0
+			],
+			"children": [
+				51
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Neck1",
+			"children": [
+				62
+			]
+		},
+		{
+			"name": "bone_FootR_p",
+			"translation": [
+				0,
+				1.4901161193847656e-8,
+				0
+			],
+			"children": [
+				53
+			]
+		},
+		{
+			"name": "bone_FootR",
+			"children": [
+				64,
+				378,
+				382
+			]
+		},
+		{
+			"name": "bone_FootL_p",
+			"translation": [
+				2.2351741790771484e-8,
+				-1.4901161193847656e-8,
+				0
+			],
+			"children": [
+				55
+			]
+		},
+		{
+			"name": "bone_FootL",
+			"children": [
+				66,
+				374,
+				380
+			]
+		},
+		{
+			"name": "bone_ArmR_p",
+			"translation": [
+				0.03606441617012024,
+				0.008224964141845703,
+				0.2221400886774063
+			],
+			"children": [
+				57
+			]
+		},
+		{
+			"name": "bone_ArmR",
+			"children": [
+				68,
+				70,
+				72,
+				384
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Cape2_p",
+			"translation": [
+				0,
+				-0.2972224950790405,
+				0
+			],
+			"children": [
+				59
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Cape2",
+			"children": [
+				74
+			]
+		},
+		{
+			"name": "bone_ArmL_p",
+			"translation": [
+				0.036064326763153076,
+				0.008225679397583008,
+				-0.2221401035785675
+			],
+			"children": [
+				61
+			]
+		},
+		{
+			"name": "bone_ArmL",
+			"children": [
+				76,
+				78,
+				80,
+				376
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Neck2_p",
+			"translation": [
+				0.019889526069164276,
+				0.046588897705078125,
+				0
+			],
+			"children": [
+				63
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Neck2",
+			"children": [
+				82
+			]
+		},
+		{
+			"name": "bone_31_p",
+			"translation": [
+				0.24518651515245438,
+				-0.13872651383280754,
+				0
+			],
+			"children": [
+				65
+			]
+		},
+		{
+			"name": "bone_31"
+		},
+		{
+			"name": "bone_32_p",
+			"translation": [
+				0.24518662691116333,
+				-0.1387265808880329,
+				0
+			],
+			"children": [
+				67
+			]
+		},
+		{
+			"name": "bone_32"
+		},
+		{
+			"name": "bone_ElbowR_p",
+			"translation": [
+				-0.04153146594762802,
+				-0.4087914228439331,
+				0.10908287763595581
+			],
+			"children": [
+				69
+			]
+		},
+		{
+			"name": "bone_ElbowR",
+			"children": [
+				84,
+				86,
+				88,
+				390
+			]
+		},
+		{
+			"name": "bone_EXP_R1_Arm1Twist3_p",
+			"translation": [
+				-0.04153146594762802,
+				-0.4087914228439331,
+				0.10908287763595581
+			],
+			"children": [
+				71
+			]
+		},
+		{
+			"name": "bone_EXP_R1_Arm1Twist3"
+		},
+		{
+			"name": "bone_EXP_R1_Arm1Twist2_p",
+			"translation": [
+				-0.02076570689678192,
+				-0.20439577102661133,
+				0.054541438817977905
+			],
+			"children": [
+				73
+			]
+		},
+		{
+			"name": "bone_EXP_R1_Arm1Twist2"
+		},
+		{
+			"name": "bone_EXP_C1_Cape3_p",
+			"translation": [
+				0,
+				-0.297222375869751,
+				0
+			],
+			"children": [
+				75
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Cape3",
+			"children": [
+				90
+			]
+		},
+		{
+			"name": "bone_ElbowL_p",
+			"translation": [
+				-0.04153146594762802,
+				-0.4087914228439331,
+				-0.10908287763595581
+			],
+			"children": [
+				77
+			]
+		},
+		{
+			"name": "bone_ElbowL",
+			"children": [
+				92,
+				94,
+				96,
+				98,
+				392
+			]
+		},
+		{
+			"name": "bone_EXP_L1_Arm1Twist3_p",
+			"translation": [
+				-0.04153146594762802,
+				-0.4087914228439331,
+				-0.10908287763595581
+			],
+			"children": [
+				79
+			]
+		},
+		{
+			"name": "bone_EXP_L1_Arm1Twist3"
+		},
+		{
+			"name": "bone_EXP_L1_Arm1Twist2_p",
+			"translation": [
+				-0.02076570689678192,
+				-0.20439577102661133,
+				-0.054541438817977905
+			],
+			"children": [
+				81
+			]
+		},
+		{
+			"name": "bone_EXP_L1_Arm1Twist2"
+		},
+		{
+			"name": "bone_Head_p",
+			"translation": [
+				0.02154095098376274,
+				0.053638458251953125,
+				0
+			],
+			"children": [
+				83
+			]
+		},
+		{
+			"name": "bone_Head",
+			"children": [
+				100,
+				102,
+				104,
+				106,
+				108,
+				110,
+				112,
+				114,
+				116,
+				118,
+				120,
+				122,
+				124,
+				126,
+				128,
+				130,
+				132,
+				134,
+				136,
+				138,
+				140,
+				142,
+				144,
+				146,
+				148,
+				150,
+				152,
+				154,
+				156,
+				158,
+				160,
+				162,
+				164,
+				166,
+				168,
+				170,
+				172,
+				174,
+				176,
+				178,
+				180,
+				182,
+				386,
+				388,
+				394,
+				396,
+				398
+			]
+		},
+		{
+			"name": "bone_HandR_p",
+			"translation": [
+				0.12380131520330906,
+				-0.33406734466552734,
+				0.08914422988891602
+			],
+			"children": [
+				85
+			]
+		},
+		{
+			"name": "bone_HandR",
+			"children": [
+				184,
+				186,
+				188,
+				190,
+				192,
+				194,
+				196,
+				400,
+				402,
+				404,
+				410
+			]
+		},
+		{
+			"name": "bone_EXP_R1_Arm2Twist2_p",
+			"translation": [
+				0.061900652945041656,
+				-0.16703319549560547,
+				0.04457154870033264
+			],
+			"children": [
+				87
+			]
+		},
+		{
+			"name": "bone_EXP_R1_Arm2Twist2"
+		},
+		{
+			"name": "bone_EXP_R1_Arm2Twist3_p",
+			"translation": [
+				0.1238013282418251,
+				-0.3340665102005005,
+				0.08914309740066528
+			],
+			"children": [
+				89
+			]
+		},
+		{
+			"name": "bone_EXP_R1_Arm2Twist3"
+		},
+		{
+			"name": "bone_EXP_C1_Cape4_p",
+			"translation": [
+				0,
+				-0.297222375869751,
+				0
+			],
+			"children": [
+				91
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Cape4",
+			"children": [
+				198
+			]
+		},
+		{
+			"name": "bone_HandL_p",
+			"translation": [
+				0.1238013282418251,
+				-0.3340665102005005,
+				-0.08914309740066528
+			],
+			"children": [
+				93
+			]
+		},
+		{
+			"name": "bone_HandL",
+			"children": [
+				200,
+				202,
+				204,
+				206,
+				208,
+				210,
+				212
+			]
+		},
+		{
+			"name": "bone_EXP_L1_Arm2Twist2_p",
+			"translation": [
+				0.061900652945041656,
+				-0.16703319549560547,
+				-0.04457154870033264
+			],
+			"children": [
+				95
+			]
+		},
+		{
+			"name": "bone_EXP_L1_Arm2Twist2"
+		},
+		{
+			"name": "bone_EXP_L1_Arm2Twist3_p",
+			"translation": [
+				0.1238013282418251,
+				-0.3340665102005005,
+				-0.08914309740066528
+			],
+			"children": [
+				97
+			]
+		},
+		{
+			"name": "bone_EXP_L1_Arm2Twist3"
+		},
+		{
+			"name": "bone_EXP_L1_Shield1_p",
+			"translation": [
+				0.11375043541193008,
+				-1.6358929872512817,
+				0.38191160559654236
+			],
+			"children": [
+				99
+			]
+		},
+		{
+			"name": "bone_EXP_L1_Shield1",
+			"children": [
+				406,
+				408
+			]
+		},
+		{
+			"name": "bone_Jaw_p",
+			"translation": [
+				0.02509581856429577,
+				0.003779172897338867,
+				0
+			],
+			"children": [
+				101
+			]
+		},
+		{
+			"name": "bone_Jaw",
+			"children": [
+				214,
+				216,
+				218,
+				220,
+				222,
+				224,
+				226,
+				228,
+				230
+			]
+		},
+		{
+			"name": "bone_50_p",
+			"translation": [
+				-0.09327438101172447,
+				0.029360294342041016,
+				0.06590364128351212
+			],
+			"children": [
+				103
+			]
+		},
+		{
+			"name": "bone_50",
+			"children": [
+				232
+			]
+		},
+		{
+			"name": "bone_51_p",
+			"translation": [
+				0.14708400890231133,
+				0.019248008728027344,
+				0.024470500648021698
+			],
+			"children": [
+				105
+			]
+		},
+		{
+			"name": "bone_51"
+		},
+		{
+			"name": "bone_52_p",
+			"translation": [
+				0.08724512904882431,
+				-0.02539372444152832,
+				-0.07057222723960876
+			],
+			"children": [
+				107
+			]
+		},
+		{
+			"name": "bone_52"
+		},
+		{
+			"name": "bone_53_p",
+			"translation": [
+				0.1063595712184906,
+				0.017492294311523438,
+				-0.07233472168445587
+			],
+			"children": [
+				109
+			]
+		},
+		{
+			"name": "bone_53"
+		},
+		{
+			"name": "bone_54_p",
+			"translation": [
+				0.15181567892432213,
+				0.06765341758728027,
+				0
+			],
+			"children": [
+				111
+			]
+		},
+		{
+			"name": "bone_54"
+		},
+		{
+			"name": "bone_55_p",
+			"translation": [
+				0.13004374131560326,
+				0.09495329856872559,
+				-0.04182194545865059
+			],
+			"children": [
+				113
+			]
+		},
+		{
+			"name": "bone_55"
+		},
+		{
+			"name": "bone_56_p",
+			"translation": [
+				0.13835706934332848,
+				0.06655335426330566,
+				-0.04613055661320686
+			],
+			"children": [
+				115
+			]
+		},
+		{
+			"name": "bone_56"
+		},
+		{
+			"name": "bone_57_p",
+			"translation": [
+				0.11498651280999184,
+				0.06197857856750488,
+				-0.06793555617332458
+			],
+			"children": [
+				117
+			]
+		},
+		{
+			"name": "bone_57"
+		},
+		{
+			"name": "bone_EXP_L1_EyeLid1_p",
+			"translation": [
+				0.1300395466387272,
+				0.03563356399536133,
+				-0.04154341667890549
+			],
+			"children": [
+				119
+			]
+		},
+		{
+			"name": "bone_EXP_L1_EyeLid1"
+		},
+		{
+			"name": "bone_EXP_L1_EyeLid2_p",
+			"translation": [
+				0.1291084699332714,
+				0.03094172477722168,
+				-0.04208611324429512
+			],
+			"children": [
+				121
+			]
+		},
+		{
+			"name": "bone_EXP_L1_EyeLid2"
+		},
+		{
+			"name": "bone_60_p",
+			"translation": [
+				0.13359929248690605,
+				-0.04204082489013672,
+				0.03484305366873741
+			],
+			"children": [
+				123
+			]
+		},
+		{
+			"name": "bone_60"
+		},
+		{
+			"name": "bone_EXP_L1_Eye1_p",
+			"translation": [
+				0.10956237092614174,
+				0.03947138786315918,
+				-0.03604724258184433
+			],
+			"children": [
+				125
+			]
+		},
+		{
+			"name": "bone_EXP_L1_Eye1"
+		},
+		{
+			"name": "bone_62_p",
+			"translation": [
+				0.13398651406168938,
+				-0.04895472526550293,
+				0.032234445214271545
+			],
+			"children": [
+				127
+			]
+		},
+		{
+			"name": "bone_62"
+		},
+		{
+			"name": "bone_63_p",
+			"translation": [
+				0.14909985288977623,
+				-0.0476381778717041,
+				0.008893528021872044
+			],
+			"children": [
+				129
+			]
+		},
+		{
+			"name": "bone_63"
+		},
+		{
+			"name": "bone_64_p",
+			"translation": [
+				-0.027529913932085037,
+				0.030149221420288086,
+				0.11049144715070724
+			],
+			"children": [
+				131
+			]
+		},
+		{
+			"name": "bone_64",
+			"children": [
+				234
+			]
+		},
+		{
+			"name": "bone_65_p",
+			"translation": [
+				0.14081678912043571,
+				0.002736806869506836,
+				0.041014719754457474
+			],
+			"children": [
+				133
+			]
+		},
+		{
+			"name": "bone_65"
+		},
+		{
+			"name": "bone_66_p",
+			"translation": [
+				0.08724512904882431,
+				-0.02539372444152832,
+				0.07057222723960876
+			],
+			"children": [
+				135
+			]
+		},
+		{
+			"name": "bone_66"
+		},
+		{
+			"name": "bone_67_p",
+			"translation": [
+				0.1063595712184906,
+				0.017492294311523438,
+				0.07233472168445587
+			],
+			"children": [
+				137
+			]
+		},
+		{
+			"name": "bone_67"
+		},
+		{
+			"name": "bone_68_p",
+			"translation": [
+				-0.09327448531985283,
+				0.029359102249145508,
+				-0.0659036636352539
+			],
+			"children": [
+				139
+			]
+		},
+		{
+			"name": "bone_68",
+			"children": [
+				236
+			]
+		},
+		{
+			"name": "bone_69_p",
+			"translation": [
+				-0.06643762066960335,
+				0.15733027458190918,
+				0
+			],
+			"children": [
+				141
+			]
+		},
+		{
+			"name": "bone_69",
+			"children": [
+				238
+			]
+		},
+		{
+			"name": "bone_70_p",
+			"translation": [
+				0.1762637384235859,
+				-0.012193918228149414,
+				0.0015885556349530816
+			],
+			"children": [
+				143
+			]
+		},
+		{
+			"name": "bone_70"
+		},
+		{
+			"name": "bone_71_p",
+			"translation": [
+				-0.02752988412976265,
+				0.030150413513183594,
+				-0.11049140989780426
+			],
+			"children": [
+				145
+			]
+		},
+		{
+			"name": "bone_71",
+			"children": [
+				240
+			]
+		},
+		{
+			"name": "bone_EXP_R1_EyeLid2_p",
+			"translation": [
+				0.1291084699332714,
+				0.03094172477722168,
+				0.04208611324429512
+			],
+			"children": [
+				147
+			]
+		},
+		{
+			"name": "bone_EXP_R1_EyeLid2"
+		},
+		{
+			"name": "bone_EXP_R1_EyeLid1_p",
+			"translation": [
+				0.1300395466387272,
+				0.03563356399536133,
+				0.04154341667890549
+			],
+			"children": [
+				149
+			]
+		},
+		{
+			"name": "bone_EXP_R1_EyeLid1"
+		},
+		{
+			"name": "bone_74_p",
+			"translation": [
+				0.10854068025946617,
+				-0.03654646873474121,
+				0.0007445000228472054
+			],
+			"children": [
+				151
+			]
+		},
+		{
+			"name": "bone_74"
+		},
+		{
+			"name": "bone_75_p",
+			"translation": [
+				0.13004374131560326,
+				0.09495329856872559,
+				0.04182194545865059
+			],
+			"children": [
+				153
+			]
+		},
+		{
+			"name": "bone_75"
+		},
+		{
+			"name": "bone_76_p",
+			"translation": [
+				0.15092984959483147,
+				0.0614008903503418,
+				0.014440583065152168
+			],
+			"children": [
+				155
+			]
+		},
+		{
+			"name": "bone_76"
+		},
+		{
+			"name": "bone_77_p",
+			"translation": [
+				0.13835706934332848,
+				0.06655335426330566,
+				0.04613055661320686
+			],
+			"children": [
+				157
+			]
+		},
+		{
+			"name": "bone_77"
+		},
+		{
+			"name": "bone_78_p",
+			"translation": [
+				0.11498651280999184,
+				0.06197857856750488,
+				0.06793555617332458
+			],
+			"children": [
+				159
+			]
+		},
+		{
+			"name": "bone_78"
+		},
+		{
+			"name": "bone_79_p",
+			"translation": [
+				0.16062124446034431,
+				-0.01651597023010254,
+				-0.01132811140269041
+			],
+			"children": [
+				161
+			]
+		},
+		{
+			"name": "bone_79"
+		},
+		{
+			"name": "bone_80_p",
+			"translation": [
+				0.16062124446034431,
+				-0.01651597023010254,
+				0.011328139342367649
+			],
+			"children": [
+				163
+			]
+		},
+		{
+			"name": "bone_80"
+		},
+		{
+			"name": "bone_81_p",
+			"translation": [
+				0.14909985288977623,
+				-0.0476381778717041,
+				-0.008893500082194805
+			],
+			"children": [
+				165
+			]
+		},
+		{
+			"name": "bone_81"
+		},
+		{
+			"name": "bone_82_p",
+			"translation": [
+				0.13398651406168938,
+				-0.04895472526550293,
+				-0.032234445214271545
+			],
+			"children": [
+				167
+			]
+		},
+		{
+			"name": "bone_82"
+		},
+		{
+			"name": "bone_83_p",
+			"translation": [
+				0.14209624007344246,
+				-0.04802989959716797,
+				-0.022026026621460915
+			],
+			"children": [
+				169
+			]
+		},
+		{
+			"name": "bone_83"
+		},
+		{
+			"name": "bone_84_p",
+			"translation": [
+				0.14708400890231133,
+				0.019248008728027344,
+				-0.02447047270834446
+			],
+			"children": [
+				171
+			]
+		},
+		{
+			"name": "bone_84"
+		},
+		{
+			"name": "bone_EXP_R1_Eye1_p",
+			"translation": [
+				0.10956237837672234,
+				0.03947138786315918,
+				0.036047518253326416
+			],
+			"children": [
+				173
+			]
+		},
+		{
+			"name": "bone_EXP_R1_Eye1"
+		},
+		{
+			"name": "bone_86_p",
+			"translation": [
+				0.13359956815838814,
+				-0.04204082489013672,
+				-0.03484250232577324
+			],
+			"children": [
+				175
+			]
+		},
+		{
+			"name": "bone_86"
+		},
+		{
+			"name": "bone_87_p",
+			"translation": [
+				0.15092984959483147,
+				0.0614008903503418,
+				-0.014440528117120266
+			],
+			"children": [
+				177
+			]
+		},
+		{
+			"name": "bone_87"
+		},
+		{
+			"name": "bone_88_p",
+			"translation": [
+				-0.15025171265006065,
+				0.08965754508972168,
+				0
+			],
+			"children": [
+				179
+			]
+		},
+		{
+			"name": "bone_88",
+			"children": [
+				242
+			]
+		},
+		{
+			"name": "bone_89_p",
+			"translation": [
+				0.14209624007344246,
+				-0.04802989959716797,
+				0.022026056423783302
+			],
+			"children": [
+				181
+			]
+		},
+		{
+			"name": "bone_89"
+		},
+		{
+			"name": "bone_90_p",
+			"translation": [
+				0.14081678912043571,
+				0.002736806869506836,
+				-0.041014719754457474
+			],
+			"children": [
+				183
+			]
+		},
+		{
+			"name": "bone_90"
+		},
+		{
+			"name": "bone_IndexFingerR_p",
+			"translation": [
+				0.11096779815852642,
+				-0.18431389331817627,
+				0.06020286679267883
+			],
+			"children": [
+				185
+			]
+		},
+		{
+			"name": "bone_IndexFingerR",
+			"children": [
+				244
+			]
+		},
+		{
+			"name": "bone_RingFingerR_p",
+			"translation": [
+				-0.004615624900907278,
+				-0.1970916986465454,
+				0.06443610787391663
+			],
+			"children": [
+				187
+			]
+		},
+		{
+			"name": "bone_RingFingerR",
+			"children": [
+				246,
+				432
+			]
+		},
+		{
+			"name": "bone_PinkyFingerR_p",
+			"translation": [
+				-0.04873339273035526,
+				-0.19436407089233398,
+				0.06986942887306213
+			],
+			"children": [
+				189
+			]
+		},
+		{
+			"name": "bone_PinkyFingerR",
+			"children": [
+				248
+			]
+		},
+		{
+			"name": "bone_ThumbR_p",
+			"translation": [
+				0.050611941143870354,
+				-0.06896662712097168,
+				-0.050633370876312256
+			],
+			"children": [
+				191
+			]
+		},
+		{
+			"name": "bone_ThumbR",
+			"children": [
+				250
+			]
+		},
+		{
+			"name": "bone_MiddleFingerR_p",
+			"translation": [
+				0.053329719230532646,
+				-0.180702805519104,
+				0.0677250325679779
+			],
+			"children": [
+				193
+			]
+		},
+		{
+			"name": "bone_MiddleFingerR",
+			"children": [
+				252
+			]
+		},
+		{
+			"name": "bone_SpellHandR_p",
+			"translation": [
+				-0.010050879791378975,
+				-1.3018256425857544,
+				-0.4710558354854584
+			],
+			"children": [
+				195
+			]
+		},
+		{
+			"name": "bone_SpellHandR",
+			"children": [
+				422,
+				430
+			]
+		},
+		{
+			"name": "bone_WeaponR_p",
+			"translation": [
+				-0.010050879791378975,
+				-1.3018256425857544,
+				-0.4710558354854584
+			],
+			"children": [
+				197
+			]
+		},
+		{
+			"name": "bone_WeaponR",
+			"children": [
+				412,
+				418,
+				426
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Cape5_p",
+			"translation": [
+				0,
+				-0.297222375869751,
+				0
+			],
+			"children": [
+				199
+			]
+		},
+		{
+			"name": "bone_EXP_C1_Cape5"
+		},
+		{
+			"name": "bone_IndexFingerL_p",
+			"translation": [
+				0.11096785217523575,
+				-0.18431532382965088,
+				-0.06020304560661316
+			],
+			"children": [
+				201
+			]
+		},
+		{
+			"name": "bone_IndexFingerL",
+			"children": [
+				254
+			]
+		},
+		{
+			"name": "bone_PinkyFingerL_p",
+			"translation": [
+				-0.04873348027467728,
+				-0.19436609745025635,
+				-0.06986925005912781
+			],
+			"children": [
+				203
+			]
+		},
+		{
+			"name": "bone_PinkyFingerL",
+			"children": [
+				256
+			]
+		},
+		{
+			"name": "bone_ThumbL_p",
+			"translation": [
+				0.05061181262135506,
+				-0.06896626949310303,
+				0.05063146352767944
+			],
+			"children": [
+				205
+			]
+		},
+		{
+			"name": "bone_ThumbL",
+			"children": [
+				258
+			]
+		},
+		{
+			"name": "bone_RingFingerL_p",
+			"translation": [
+				-0.004615647718310356,
+				-0.19709205627441406,
+				-0.0644359290599823
+			],
+			"children": [
+				207
+			]
+		},
+		{
+			"name": "bone_RingFingerL",
+			"children": [
+				260,
+				416
+			]
+		},
+		{
+			"name": "bone_MiddleFingerL_p",
+			"translation": [
+				0.05332957208156586,
+				-0.1807025671005249,
+				-0.0677272379398346
+			],
+			"children": [
+				209
+			]
+		},
+		{
+			"name": "bone_MiddleFingerL",
+			"children": [
+				262
+			]
+		},
+		{
+			"name": "bone_SpellHandL_p",
+			"translation": [
+				-0.01005089282989502,
+				-1.3018264770507812,
+				0.47105470299720764
+			],
+			"children": [
+				211
+			]
+		},
+		{
+			"name": "bone_SpellHandL",
+			"children": [
+				414,
+				420,
+				424,
+				434
+			]
+		},
+		{
+			"name": "bone_WeaponL_p",
+			"translation": [
+				-0.01005089282989502,
+				-1.3018264770507812,
+				0.47105470299720764
+			],
+			"children": [
+				213
+			]
+		},
+		{
+			"name": "bone_WeaponL",
+			"children": [
+				428
+			]
+		},
+		{
+			"name": "bone_106_p",
+			"translation": [
+				0.13244624994695187,
+				-0.11555910110473633,
+				0
+			],
+			"children": [
+				215
+			]
+		},
+		{
+			"name": "bone_106"
+		},
+		{
+			"name": "bone_107_p",
+			"translation": [
+				0.08441181294620037,
+				-0.06788134574890137,
+				0.0007445000228472054
+			],
+			"children": [
+				217
+			]
+		},
+		{
+			"name": "bone_107"
+		},
+		{
+			"name": "bone_108_p",
+			"translation": [
+				0.12308876030147076,
+				-0.06240344047546387,
+				0.008876861073076725
+			],
+			"children": [
+				219
+			]
+		},
+		{
+			"name": "bone_108"
+		},
+		{
+			"name": "bone_109_p",
+			"translation": [
+				0.11629931442439556,
+				-0.06129789352416992,
+				0.02133844420313835
+			],
+			"children": [
+				221
+			]
+		},
+		{
+			"name": "bone_109"
+		},
+		{
+			"name": "bone_110_p",
+			"translation": [
+				0.10802431218326092,
+				-0.059233903884887695,
+				0.031958334147930145
+			],
+			"children": [
+				223
+			]
+		},
+		{
+			"name": "bone_110"
+		},
+		{
+			"name": "bone_111_p",
+			"translation": [
+				0.11629931442439556,
+				-0.06129789352416992,
+				-0.021338388323783875
+			],
+			"children": [
+				225
+			]
+		},
+		{
+			"name": "bone_111"
+		},
+		{
+			"name": "bone_112_p",
+			"translation": [
+				0.10802431218326092,
+				-0.059233903884887695,
+				-0.031958334147930145
+			],
+			"children": [
+				227
+			]
+		},
+		{
+			"name": "bone_112"
+		},
+		{
+			"name": "bone_113_p",
+			"translation": [
+				0.12308876030147076,
+				-0.06240344047546387,
+				-0.008876834064722061
+			],
+			"children": [
+				229
+			]
+		},
+		{
+			"name": "bone_113"
+		},
+		{
+			"name": "bone_114_p",
+			"translation": [
+				0.11999964527785778,
+				-0.12321591377258301,
+				0
+			],
+			"children": [
+				231
+			]
+		},
+		{
+			"name": "bone_114",
+			"children": [
+				264
+			]
+		},
+		{
+			"name": "bone_115_p",
+			"translation": [
+				-0.088783398270607,
+				0,
+				0
+			],
+			"children": [
+				233
+			]
+		},
+		{
+			"name": "bone_115",
+			"children": [
+				266
+			]
+		},
+		{
+			"name": "bone_116_p",
+			"translation": [
+				-0.1259809210896492,
+				0.04321932792663574,
+				0.06551726907491684
+			],
+			"children": [
+				235
+			]
+		},
+		{
+			"name": "bone_116",
+			"children": [
+				268
+			]
+		},
+		{
+			"name": "bone_117_p",
+			"translation": [
+				-0.08878335356712341,
+				0,
+				0
+			],
+			"children": [
+				237
+			]
+		},
+		{
+			"name": "bone_117",
+			"children": [
+				270
+			]
+		},
+		{
+			"name": "bone_118_p",
+			"translation": [
+				-0.04413437098264694,
+				0.0426633358001709,
+				0
+			],
+			"children": [
+				239
+			]
+		},
+		{
+			"name": "bone_118"
+		},
+		{
+			"name": "bone_119_p",
+			"translation": [
+				-0.118670754134655,
+				0.04301142692565918,
+				-0.07809557020664215
+			],
+			"children": [
+				241
+			]
+		},
+		{
+			"name": "bone_119",
+			"children": [
+				272
+			]
+		},
+		{
+			"name": "bone_120_p",
+			"translation": [
+				-0.33461758494377136,
+				0,
+				0
+			],
+			"children": [
+				243
+			]
+		},
+		{
+			"name": "bone_120",
+			"children": [
+				274
+			]
+		},
+		{
+			"name": "bone_IndexFingerTipR_p",
+			"translation": [
+				0.011686652898788452,
+				-0.10199165344238281,
+				-0.016155660152435303
+			],
+			"children": [
+				245
+			]
+		},
+		{
+			"name": "bone_IndexFingerTipR"
+		},
+		{
+			"name": "bone_RingFingerTipR_p",
+			"translation": [
+				0.023001409601420164,
+				-0.09983062744140625,
+				-0.013627767562866211
+			],
+			"children": [
+				247
+			]
+		},
+		{
+			"name": "bone_RingFingerTipR"
+		},
+		{
+			"name": "bone_PinkyFingerTipR_p",
+			"translation": [
+				0.007040824741125107,
+				-0.08895540237426758,
+				-0.013613879680633545
+			],
+			"children": [
+				249
+			]
+		},
+		{
+			"name": "bone_PinkyFingerTipR"
+		},
+		{
+			"name": "bone_ThumbTipR_p",
+			"translation": [
+				0.04212640970945358,
+				-0.06014728546142578,
+				-0.01956668496131897
+			],
+			"children": [
+				251
+			]
+		},
+		{
+			"name": "bone_ThumbTipR"
+		},
+		{
+			"name": "bone_MiddleFingerTipR_p",
+			"translation": [
+				0.01909666508436203,
+				-0.11546957492828369,
+				-0.02144169807434082
+			],
+			"children": [
+				253
+			]
+		},
+		{
+			"name": "bone_MiddleFingerTipR"
+		},
+		{
+			"name": "bone_IndexFingerTipL_p",
+			"translation": [
+				0.01168670505285263,
+				-0.10199236869812012,
+				0.016155660152435303
+			],
+			"children": [
+				255
+			]
+		},
+		{
+			"name": "bone_IndexFingerTipL"
+		},
+		{
+			"name": "bone_PinkyFingerTipL_p",
+			"translation": [
+				0.007040791213512421,
+				-0.08895564079284668,
+				0.013611972332000732
+			],
+			"children": [
+				257
+			]
+		},
+		{
+			"name": "bone_PinkyFingerTipL"
+		},
+		{
+			"name": "bone_ThumbTipL_p",
+			"translation": [
+				0.0421266071498394,
+				-0.060149312019348145,
+				0.019566893577575684
+			],
+			"children": [
+				259
+			]
+		},
+		{
+			"name": "bone_ThumbTipL"
+		},
+		{
+			"name": "bone_RingFingerTipL_p",
+			"translation": [
+				0.023001521825790405,
+				-0.0998297929763794,
+				0.013626396656036377
+			],
+			"children": [
+				261
+			]
+		},
+		{
+			"name": "bone_RingFingerTipL"
+		},
+		{
+			"name": "bone_MiddleFingerTipL_p",
+			"translation": [
+				0.019096799194812775,
+				-0.11547088623046875,
+				0.021443068981170654
+			],
+			"children": [
+				263
+			]
+		},
+		{
+			"name": "bone_MiddleFingerTipL"
+		},
+		{
+			"name": "bone_131_p",
+			"translation": [
+				0.01475381851196289,
+				-0.06483054161071777,
+				0
+			],
+			"children": [
+				265
+			]
+		},
+		{
+			"name": "bone_131"
+		},
+		{
+			"name": "bone_132_p",
+			"translation": [
+				-0.1271217316389084,
+				0,
+				0
+			],
+			"children": [
+				267
+			]
+		},
+		{
+			"name": "bone_132",
+			"children": [
+				276
+			]
+		},
+		{
+			"name": "bone_133_p",
+			"translation": [
+				-0.13629087805747986,
+				0.0071947574615478516,
+				0.062077805399894714
+			],
+			"children": [
+				269
+			]
+		},
+		{
+			"name": "bone_133"
+		},
+		{
+			"name": "bone_134_p",
+			"translation": [
+				-0.12712089717388153,
+				0,
+				0
+			],
+			"children": [
+				271
+			]
+		},
+		{
+			"name": "bone_134",
+			"children": [
+				278
+			]
+		},
+		{
+			"name": "bone_135_p",
+			"translation": [
+				-0.12977345287799835,
+				0.007212400436401367,
+				-0.07475051283836365
+			],
+			"children": [
+				273
+			]
+		},
+		{
+			"name": "bone_135"
+		},
+		{
+			"name": "bone_136_p",
+			"translation": [
+				-0.3377276659011841,
+				0,
+				0
+			],
+			"children": [
+				275
+			]
+		},
+		{
+			"name": "bone_136"
+		},
+		{
+			"name": "bone_137_p",
+			"translation": [
+				-0.11204171180725098,
+				0,
+				0
+			],
+			"children": [
+				277
+			]
+		},
+		{
+			"name": "bone_137",
+			"children": [
+				280
+			]
+		},
+		{
+			"name": "bone_138_p",
+			"translation": [
+				-0.1120423674583435,
+				0,
+				0
+			],
+			"children": [
+				279
+			]
+		},
+		{
+			"name": "bone_138",
+			"children": [
+				282
+			]
+		},
+		{
+			"name": "bone_139_p",
+			"translation": [
+				-0.12162783741950989,
+				0,
+				0
+			],
+			"children": [
+				281
+			]
+		},
+		{
+			"name": "bone_139",
+			"children": [
+				284
+			]
+		},
+		{
+			"name": "bone_140_p",
+			"translation": [
+				-0.12162736058235168,
+				0,
+				0
+			],
+			"children": [
+				283
+			]
+		},
+		{
+			"name": "bone_140",
+			"children": [
+				286
+			]
+		},
+		{
+			"name": "bone_141_p",
+			"translation": [
+				-0.07889449596405029,
+				0,
+				0
+			],
+			"children": [
+				285
+			]
+		},
+		{
+			"name": "bone_141"
+		},
+		{
+			"name": "bone_142_p",
+			"translation": [
+				-0.07889503240585327,
+				0,
+				0
+			],
+			"children": [
+				287
+			]
+		},
+		{
+			"name": "bone_142"
+		},
+		{
+			"name": "bone_143_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				289
+			]
+		},
+		{
+			"name": "bone_143"
+		},
+		{
+			"name": "bone_144_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				291
+			]
+		},
+		{
+			"name": "bone_144"
+		},
+		{
+			"name": "bone_$SHL_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				293
+			]
+		},
+		{
+			"name": "bone_$SHL"
+		},
+		{
+			"name": "bone__NameMount_p",
+			"translation": [
+				0,
+				1.4218971729278564,
+				0
+			],
+			"children": [
+				295
+			]
+		},
+		{
+			"name": "bone__NameMount"
+		},
+		{
+			"name": "bone_147_p",
+			"translation": [
+				0,
+				-0.013888676650822163,
+				0
+			],
+			"children": [
+				297
+			]
+		},
+		{
+			"name": "bone_147"
+		},
+		{
+			"name": "bone_148_p",
+			"translation": [
+				0.08586616814136505,
+				2.6747448444366455,
+				0
+			],
+			"children": [
+				299
+			]
+		},
+		{
+			"name": "bone_148"
+		},
+		{
+			"name": "bone_149_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				301
+			]
+		},
+		{
+			"name": "bone_149"
+		},
+		{
+			"name": "bone_150_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				303
+			]
+		},
+		{
+			"name": "bone_150"
+		},
+		{
+			"name": "bone_151_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				305
+			]
+		},
+		{
+			"name": "bone_151"
+		},
+		{
+			"name": "bone_$FSD_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				307
+			]
+		},
+		{
+			"name": "bone_$FSD"
+		},
+		{
+			"name": "bone_$TRD_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				309
+			]
+		},
+		{
+			"name": "bone_$TRD"
+		},
+		{
+			"name": "bone__Name_p",
+			"translation": [
+				0,
+				2.8744852542877197,
+				0
+			],
+			"children": [
+				311
+			]
+		},
+		{
+			"name": "bone__Name"
+		},
+		{
+			"name": "bone_$SHR_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				313
+			]
+		},
+		{
+			"name": "bone_$SHR"
+		},
+		{
+			"name": "bone_$DTH_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				315
+			]
+		},
+		{
+			"name": "bone_$DTH"
+		},
+		{
+			"name": "bone_157_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				317
+			]
+		},
+		{
+			"name": "bone_157"
+		},
+		{
+			"name": "bone_158_p",
+			"translation": [
+				-0.0634435024112463,
+				-0.12312674522399902,
+				-0.236111119389534
+			],
+			"children": [
+				319
+			]
+		},
+		{
+			"name": "bone_158"
+		},
+		{
+			"name": "bone_159_p",
+			"translation": [
+				0.029049449134618044,
+				-0.1510545015335083,
+				-0.24233375489711761
+			],
+			"children": [
+				321
+			]
+		},
+		{
+			"name": "bone_159"
+		},
+		{
+			"name": "bone_$ESD_p",
+			"translation": [
+				0.0023424425162374973,
+				-0.009292840957641602,
+				0
+			],
+			"children": [
+				323
+			]
+		},
+		{
+			"name": "bone_$ESD"
+		},
+		{
+			"name": "bone_161_p",
+			"translation": [
+				0.03950501838698983,
+				-0.14361953735351562,
+				0.24082528054714203
+			],
+			"children": [
+				325
+			]
+		},
+		{
+			"name": "bone_161"
+		},
+		{
+			"name": "bone_162_p",
+			"translation": [
+				-0.0634435024112463,
+				-0.12312662601470947,
+				0.236111119389534
+			],
+			"children": [
+				327
+			]
+		},
+		{
+			"name": "bone_162"
+		},
+		{
+			"name": "bone_163_p",
+			"translation": [
+				2.3283064365386963e-9,
+				0.0002300739288330078,
+				0.009579923935234547
+			],
+			"children": [
+				329
+			]
+		},
+		{
+			"name": "bone_163"
+		},
+		{
+			"name": "bone_164_p",
+			"translation": [
+				-2.9802322387695312e-8,
+				-2.384185791015625e-7,
+				0
+			],
+			"children": [
+				331
+			]
+		},
+		{
+			"name": "bone_164"
+		},
+		{
+			"name": "bone_165_p",
+			"translation": [
+				-0.2959679663181305,
+				0.337007999420166,
+				0.23142528533935547
+			],
+			"children": [
+				333
+			]
+		},
+		{
+			"name": "bone_165"
+		},
+		{
+			"name": "bone__BackCloak_p",
+			"translation": [
+				-0.16047976911067963,
+				0.12118542194366455,
+				0
+			],
+			"children": [
+				335
+			]
+		},
+		{
+			"name": "bone__BackCloak"
+		},
+		{
+			"name": "bone_$CSS_p",
+			"translation": [
+				0.08480614423751831,
+				-0.11171877384185791,
+				0
+			],
+			"children": [
+				337
+			]
+		},
+		{
+			"name": "bone_$CSS"
+		},
+		{
+			"name": "bone_$HIT_p",
+			"translation": [
+				0.08480614423751831,
+				-0.11171877384185791,
+				0
+			],
+			"children": [
+				339
+			]
+		},
+		{
+			"name": "bone_$HIT"
+		},
+		{
+			"name": "bone_169_p",
+			"translation": [
+				-1.862645149230957e-8,
+				-1.1920928955078125e-7,
+				-1.4901161193847656e-7
+			],
+			"children": [
+				341
+			]
+		},
+		{
+			"name": "bone_169"
+		},
+		{
+			"name": "bone_$CST_p",
+			"translation": [
+				0.08480614423751831,
+				-0.11171877384185791,
+				0
+			],
+			"children": [
+				343
+			]
+		},
+		{
+			"name": "bone_$CST"
+		},
+		{
+			"name": "bone_171_p",
+			"translation": [
+				-0.14279091358184814,
+				0.11726582050323486,
+				0
+			],
+			"children": [
+				345
+			]
+		},
+		{
+			"name": "bone_171"
+		},
+		{
+			"name": "bone_172_p",
+			"translation": [
+				-3.473833203315735e-7,
+				0,
+				1.4901161193847656e-8
+			],
+			"children": [
+				347
+			]
+		},
+		{
+			"name": "bone_172"
+		},
+		{
+			"name": "bone_173_p",
+			"translation": [
+				-0.2811042070388794,
+				0.38788557052612305,
+				-0.2957500219345093
+			],
+			"children": [
+				349
+			]
+		},
+		{
+			"name": "bone_173"
+		},
+		{
+			"name": "bone_$CPP_p",
+			"translation": [
+				0.08480614423751831,
+				-0.11171877384185791,
+				0
+			],
+			"children": [
+				351
+			]
+		},
+		{
+			"name": "bone_$CPP"
+		},
+		{
+			"name": "bone_175_p",
+			"translation": [
+				0.01439841091632843,
+				0.03268790245056152,
+				0
+			],
+			"children": [
+				353
+			]
+		},
+		{
+			"name": "bone_175"
+		},
+		{
+			"name": "bone_176_p",
+			"translation": [
+				-0.2590957283973694,
+				0.38788557052612305,
+				0.29575833678245544
+			],
+			"children": [
+				355
+			]
+		},
+		{
+			"name": "bone_176"
+		},
+		{
+			"name": "bone_177_p",
+			"translation": [
+				0.16566496342420578,
+				0.03391706943511963,
+				0
+			],
+			"children": [
+				357
+			]
+		},
+		{
+			"name": "bone_177"
+		},
+		{
+			"name": "bone_178_p",
+			"translation": [
+				-0.2366706132888794,
+				0.0369492769241333,
+				-0.09358334541320801
+			],
+			"children": [
+				359
+			]
+		},
+		{
+			"name": "bone_178"
+		},
+		{
+			"name": "bone_179_p",
+			"translation": [
+				-0.2984253168106079,
+				-0.07561469078063965,
+				0
+			],
+			"children": [
+				361
+			]
+		},
+		{
+			"name": "bone_179"
+		},
+		{
+			"name": "bone_180_p",
+			"translation": [
+				-0.1508806049823761,
+				0.008185267448425293,
+				0
+			],
+			"children": [
+				363
+			]
+		},
+		{
+			"name": "bone_180"
+		},
+		{
+			"name": "bone_$CCH_p",
+			"translation": [
+				0.16264746338129044,
+				-0.0000010728836059570312,
+				0
+			],
+			"children": [
+				365
+			]
+		},
+		{
+			"name": "bone_$CCH"
+		},
+		{
+			"name": "bone_$CAH_p",
+			"translation": [
+				0.08480614423751831,
+				-0.11171877384185791,
+				0
+			],
+			"children": [
+				367
+			]
+		},
+		{
+			"name": "bone_$CAH"
+		},
+		{
+			"name": "bone_183_p",
+			"translation": [
+				-0.19062551856040955,
+				0.038054704666137695,
+				0.09357665479183197
+			],
+			"children": [
+				369
+			]
+		},
+		{
+			"name": "bone_183"
+		},
+		{
+			"name": "bone_184_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				371
+			]
+		},
+		{
+			"name": "bone_184"
+		},
+		{
+			"name": "bone_185_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				373
+			]
+		},
+		{
+			"name": "bone_185"
+		},
+		{
+			"name": "bone_$FL0_p",
+			"translation": [
+				0.1776890940964222,
+				-0.19076934456825256,
+				-4.470348358154297e-8
+			],
+			"children": [
+				375
+			]
+		},
+		{
+			"name": "bone_$FL0"
+		},
+		{
+			"name": "bone_187_p",
+			"translation": [
+				-0.026128053665161133,
+				0.09780120849609375,
+				0.022828668355941772
+			],
+			"children": [
+				377
+			]
+		},
+		{
+			"name": "bone_187"
+		},
+		{
+			"name": "bone_188_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				379
+			]
+		},
+		{
+			"name": "bone_188"
+		},
+		{
+			"name": "bone_189_p",
+			"translation": [
+				9.685754776000977e-8,
+				-2.9802322387695312e-8,
+				-1.4901161193847656e-8
+			],
+			"children": [
+				381
+			]
+		},
+		{
+			"name": "bone_189"
+		},
+		{
+			"name": "bone_$FR0_p",
+			"translation": [
+				0.17769333720207214,
+				-0.19076931476593018,
+				-5.960464477539063e-8
+			],
+			"children": [
+				383
+			]
+		},
+		{
+			"name": "bone_$FR0"
+		},
+		{
+			"name": "bone_191_p",
+			"translation": [
+				-0.026114419102668762,
+				0.09778857231140137,
+				-0.02282857894897461
+			],
+			"children": [
+				385
+			]
+		},
+		{
+			"name": "bone_191"
+		},
+		{
+			"name": "bone_$CHD_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				387
+			]
+		},
+		{
+			"name": "bone_$CHD"
+		},
+		{
+			"name": "bone_193_p",
+			"translation": [
+				0.028631296008825302,
+				0.15895628929138184,
+				0
+			],
+			"children": [
+				389
+			]
+		},
+		{
+			"name": "bone_193"
+		},
+		{
+			"name": "bone_194_p",
+			"translation": [
+				4.023313522338867e-7,
+				4.76837158203125e-7,
+				2.9802322387695312e-8
+			],
+			"children": [
+				391
+			]
+		},
+		{
+			"name": "bone_194"
+		},
+		{
+			"name": "bone_195_p",
+			"translation": [
+				-2.086162567138672e-7,
+				-4.76837158203125e-7,
+				3.5762786865234375e-7
+			],
+			"children": [
+				393
+			]
+		},
+		{
+			"name": "bone_195"
+		},
+		{
+			"name": "bone_196_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				395
+			]
+		},
+		{
+			"name": "bone_196"
+		},
+		{
+			"name": "bone__Breath_p",
+			"translation": [
+				0.1534743569791317,
+				-0.05301499366760254,
+				0
+			],
+			"children": [
+				397
+			]
+		},
+		{
+			"name": "bone__Breath"
+		},
+		{
+			"name": "bone_$BTH_p",
+			"translation": [
+				0.16898054257035255,
+				-0.059484004974365234,
+				0
+			],
+			"children": [
+				399
+			]
+		},
+		{
+			"name": "bone_$BTH"
+		},
+		{
+			"name": "bone_$BWR_p",
+			"translation": [
+				-0.010050879791378975,
+				-0.05182480812072754,
+				0.0011664330959320068
+			],
+			"children": [
+				401
+			]
+		},
+		{
+			"name": "bone_$BWR"
+		},
+		{
+			"name": "bone_$BWS_p",
+			"translation": [
+				-0.010050879791378975,
+				-0.051825761795043945,
+				0.0011664032936096191
+			],
+			"children": [
+				403
+			]
+		},
+		{
+			"name": "bone_$BWS"
+		},
+		{
+			"name": "bone_$BWA_p",
+			"translation": [
+				-9.257346391677856e-7,
+				-0.051818013191223145,
+				0.0011650025844573975
+			],
+			"children": [
+				405
+			]
+		},
+		{
+			"name": "bone_$BWA"
+		},
+		{
+			"name": "bone_202_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				407
+			]
+		},
+		{
+			"name": "bone_202"
+		},
+		{
+			"name": "bone_203_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				409
+			]
+		},
+		{
+			"name": "bone_203"
+		},
+		{
+			"name": "bone_$BWP_p",
+			"translation": [
+				-0.010050879791378975,
+				-0.05182480812072754,
+				0.0011664927005767822
+			],
+			"children": [
+				411
+			]
+		},
+		{
+			"name": "bone_$BWP"
+		},
+		{
+			"name": "bone_205_p",
+			"translation": [
+				0.9827862977981567,
+				0,
+				0
+			],
+			"children": [
+				413
+			]
+		},
+		{
+			"name": "bone_205"
+		},
+		{
+			"name": "bone_206_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				415
+			]
+		},
+		{
+			"name": "bone_206"
+		},
+		{
+			"name": "bone_207_p",
+			"translation": [
+				0.01353345438838005,
+				-0.0486760139465332,
+				-0.004242420196533203
+			],
+			"children": [
+				417
+			]
+		},
+		{
+			"name": "bone_207"
+		},
+		{
+			"name": "bone_208_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				419
+			]
+		},
+		{
+			"name": "bone_208"
+		},
+		{
+			"name": "bone_209_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				421
+			]
+		},
+		{
+			"name": "bone_209",
+			"children": [
+				436
+			]
+		},
+		{
+			"name": "bone_$CSR_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				423
+			]
+		},
+		{
+			"name": "bone_$CSR"
+		},
+		{
+			"name": "bone_$CSL_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				425
+			]
+		},
+		{
+			"name": "bone_$CSL"
+		},
+		{
+			"name": "bone_212_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				427
+			]
+		},
+		{
+			"name": "bone_212"
+		},
+		{
+			"name": "bone_213_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				429
+			]
+		},
+		{
+			"name": "bone_213"
+		},
+		{
+			"name": "bone_214_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				431
+			]
+		},
+		{
+			"name": "bone_214"
+		},
+		{
+			"name": "bone_215_p",
+			"translation": [
+				0.01369171543046832,
+				-0.049112915992736816,
+				0.007659256458282471
+			],
+			"children": [
+				433
+			]
+		},
+		{
+			"name": "bone_215"
+		},
+		{
+			"name": "bone_216_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				435
+			]
+		},
+		{
+			"name": "bone_216"
+		},
+		{
+			"name": "bone_$SCD_p",
+			"translation": [
+				0,
+				0,
+				0
+			],
+			"children": [
+				437
+			]
+		},
+		{
+			"name": "bone_$SCD"
+		},
+		{
+			"name": "nightelfmale_hd_Geoset0",
+			"mesh": 0,
+			"skin": 0
+		},
+		{
+			"name": "nightelfmale_hd_Hair2",
+			"mesh": 1,
+			"skin": 0
+		},
+		{
+			"name": "nightelfmale_hd_Gloves1",
+			"mesh": 2,
+			"skin": 0
+		},
+		{
+			"name": "nightelfmale_hd_Boots1",
+			"mesh": 3,
+			"skin": 0
+		},
+		{
+			"name": "nightelfmale_hd_Ears1",
+			"mesh": 4,
+			"skin": 0
+		},
+		{
+			"name": "nightelfmale_hd_Trousers1",
+			"mesh": 5,
+			"skin": 0
+		},
+		{
+			"name": "nightelfmale_hd_Belt1",
+			"mesh": 6,
+			"skin": 0
+		},
+		{
+			"name": "nightelfmale_hd_Feet1",
+			"mesh": 7,
+			"skin": 0
+		},
+		{
+			"name": "nightelfmale_hd_Torso1",
+			"mesh": 8,
+			"skin": 0
+		},
+		{
+			"name": "nightelfmale_hd_HandAttach1",
+			"mesh": 9,
+			"skin": 0
+		},
+		{
+			"name": "nightelfmale_hd_Face1",
+			"mesh": 10,
+			"skin": 0
+		},
+		{
+			"name": "nightelfmale_hd_Face2",
+			"mesh": 11,
+			"skin": 0
+		},
+		{
+			"name": "nightelfmale_hd_Eyes1",
+			"mesh": 12,
+			"skin": 0
+		},
+		{
+			"name": "nightelfmale_hd_Eyebrows1",
+			"mesh": 13,
+			"skin": 0
+		},
+		{
+			"name": "nightelfmale_hd_EyeGlowB1",
+			"mesh": 14,
+			"skin": 0
+		}
+	],
+	"scenes": [
+		{
+			"name": "nightelfmale_hd_Scene",
+			"nodes": [
+				0
+			]
+		}
+	],
+	"buffers": [
+		{
+			"uri": "nightelfmale_hd.bin",
+			"byteLength": 12150920
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 3023352,
+			"byteOffset": 0,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3023352,
+			"byteOffset": 3023352,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1007784,
+			"byteOffset": 6046704,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1007784,
+			"byteOffset": 7054488,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 13952,
+			"byteOffset": 8062272
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2015568,
+			"byteOffset": 8076224,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2015568,
+			"byteOffset": 10091792,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2892,
+			"byteOffset": 12107360,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4362,
+			"byteOffset": 12110252,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1728,
+			"byteOffset": 12114614,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2388,
+			"byteOffset": 12116342,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2436,
+			"byteOffset": 12118730,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3096,
+			"byteOffset": 12121166,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 396,
+			"byteOffset": 12124262,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2892,
+			"byteOffset": 12124658,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4068,
+			"byteOffset": 12127550,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4428,
+			"byteOffset": 12131618,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 660,
+			"byteOffset": 12136046,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10326,
+			"byteOffset": 12136706,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1152,
+			"byteOffset": 12147032,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1584,
+			"byteOffset": 12148184,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1152,
+			"byteOffset": 12149768,
+			"target": 34963
+		}
+	],
+	"accessors": [
+		{
+			"name": "POSITION",
+			"bufferView": 0,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 251946,
+			"type": "VEC3",
+			"min": [
+				-1.1866991519927979,
+				-0.017123397439718246,
+				-0.6305253505706787
+			],
+			"max": [
+				0.31126898527145386,
+				2.5698580741882324,
+				0.6305249333381653
+			]
+		},
+		{
+			"name": "NORMAL",
+			"bufferView": 1,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 251946,
+			"type": "VEC3",
+			"min": [
+				-0.9999926686286926,
+				-1,
+				-1
+			],
+			"max": [
+				1,
+				0.9999741911888123,
+				1
+			]
+		},
+		{
+			"name": "JOINTS_0",
+			"byteOffset": 0,
+			"componentType": 5121,
+			"count": 251946,
+			"type": "VEC4",
+			"bufferView": 2,
+			"min": [
+				2,
+				0,
+				0,
+				0
+			],
+			"max": [
+				142,
+				142,
+				140,
+				140
+			]
+		},
+		{
+			"name": "WEIGHTS_0",
+			"byteOffset": 0,
+			"componentType": 5121,
+			"count": 251946,
+			"normalized": true,
+			"type": "VEC4",
+			"bufferView": 3,
+			"min": [
+				2,
+				0,
+				0,
+				0
+			],
+			"max": [
+				255,
+				253,
+				252,
+				251
+			]
+		},
+		{
+			"name": "INV_BIND_MATRICES",
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 218,
+			"type": "MAT4",
+			"bufferView": 4,
+			"min": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				-0.9827862977981567,
+				-2.8744852542877197,
+				-0.5431511998176575,
+				1
+			],
+			"max": [
+				1,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0.8675593137741089,
+				0.013888676650822163,
+				0.5409239530563354,
+				1
+			]
+		},
+		{
+			"name": "TEXCOORD_0",
+			"bufferView": 5,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 251946,
+			"type": "VEC2",
+			"min": [
+				-0.9877157807350159,
+				-1.962468147277832
+			],
+			"max": [
+				2.9802536964416504,
+				1.8573660850524902
+			]
+		},
+		{
+			"name": "TEXCOORD_1",
+			"bufferView": 6,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 251946,
+			"type": "VEC2",
+			"min": [
+				0,
+				-0.24627888202667236
+			],
+			"max": [
+				1.1836451292037964,
+				0.9951723217964172
+			]
+		},
+		{
+			"bufferView": 7,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 1446,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 8,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 2181,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 9,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 864,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 10,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 1194,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 11,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 1218,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 12,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 1548,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 13,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 198,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 14,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 1446,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 15,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 2034,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 16,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 2214,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 17,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 330,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 18,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 5163,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 19,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 576,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 20,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 792,
+			"type": "SCALAR"
+		},
+		{
+			"bufferView": 21,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 576,
+			"type": "SCALAR"
+		}
+	],
+	"meshes": [
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 7,
+					"mode": 4,
+					"material": 0
+				}
+			]
+		},
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 8,
+					"mode": 4,
+					"material": 1
+				}
+			]
+		},
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 9,
+					"mode": 4,
+					"material": 0
+				}
+			]
+		},
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 10,
+					"mode": 4,
+					"material": 0
+				}
+			]
+		},
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 11,
+					"mode": 4,
+					"material": 0
+				}
+			]
+		},
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 12,
+					"mode": 4,
+					"material": 0
+				}
+			]
+		},
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 13,
+					"mode": 4,
+					"material": 0
+				}
+			]
+		},
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 14,
+					"mode": 4,
+					"material": 0
+				}
+			]
+		},
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 15,
+					"mode": 4,
+					"material": 0
+				}
+			]
+		},
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 16,
+					"mode": 4,
+					"material": 0
+				}
+			]
+		},
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 17,
+					"mode": 4,
+					"material": 0
+				}
+			]
+		},
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 18,
+					"mode": 4,
+					"material": 0
+				}
+			]
+		},
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 19,
+					"mode": 4,
+					"material": 2
+				}
+			]
+		},
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 20,
+					"mode": 4,
+					"material": 1
+				}
+			]
+		},
+		{
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"JOINTS_0": 2,
+						"WEIGHTS_0": 3,
+						"TEXCOORD_0": 5,
+						"TEXCOORD_1": 6
+					},
+					"indices": 21,
+					"mode": 4,
+					"material": 6
+				}
+			]
+		}
+	],
+	"scene": 0,
+	"skins": [
+		{
+			"name": "nightelfmale_hd_Armature",
+			"joints": [
+				3,
+				5,
+				7,
+				9,
+				11,
+				13,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				29,
+				31,
+				33,
+				35,
+				37,
+				39,
+				41,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				59,
+				61,
+				63,
+				65,
+				67,
+				69,
+				71,
+				73,
+				75,
+				77,
+				79,
+				81,
+				83,
+				85,
+				87,
+				89,
+				91,
+				93,
+				95,
+				97,
+				99,
+				101,
+				103,
+				105,
+				107,
+				109,
+				111,
+				113,
+				115,
+				117,
+				119,
+				121,
+				123,
+				125,
+				127,
+				129,
+				131,
+				133,
+				135,
+				137,
+				139,
+				141,
+				143,
+				145,
+				147,
+				149,
+				151,
+				153,
+				155,
+				157,
+				159,
+				161,
+				163,
+				165,
+				167,
+				169,
+				171,
+				173,
+				175,
+				177,
+				179,
+				181,
+				183,
+				185,
+				187,
+				189,
+				191,
+				193,
+				195,
+				197,
+				199,
+				201,
+				203,
+				205,
+				207,
+				209,
+				211,
+				213,
+				215,
+				217,
+				219,
+				221,
+				223,
+				225,
+				227,
+				229,
+				231,
+				233,
+				235,
+				237,
+				239,
+				241,
+				243,
+				245,
+				247,
+				249,
+				251,
+				253,
+				255,
+				257,
+				259,
+				261,
+				263,
+				265,
+				267,
+				269,
+				271,
+				273,
+				275,
+				277,
+				279,
+				281,
+				283,
+				285,
+				287,
+				289,
+				291,
+				293,
+				295,
+				297,
+				299,
+				301,
+				303,
+				305,
+				307,
+				309,
+				311,
+				313,
+				315,
+				317,
+				319,
+				321,
+				323,
+				325,
+				327,
+				329,
+				331,
+				333,
+				335,
+				337,
+				339,
+				341,
+				343,
+				345,
+				347,
+				349,
+				351,
+				353,
+				355,
+				357,
+				359,
+				361,
+				363,
+				365,
+				367,
+				369,
+				371,
+				373,
+				375,
+				377,
+				379,
+				381,
+				383,
+				385,
+				387,
+				389,
+				391,
+				393,
+				395,
+				397,
+				399,
+				401,
+				403,
+				405,
+				407,
+				409,
+				411,
+				413,
+				415,
+				417,
+				419,
+				421,
+				423,
+				425,
+				427,
+				429,
+				431,
+				433,
+				435,
+				437
+			],
+			"inverseBindMatrices": 4,
+			"skeleton": 0
+		}
+	],
+	"images": [
+		{
+			"uri": "data-1.png"
+		},
+		{
+			"uri": "data-6.png"
+		},
+		{
+			"uri": "data-19.png"
+		},
+		{
+			"uri": "data-10.png"
+		},
+		{
+			"uri": "nightelfmale_hd_3540954.png"
+		},
+		{
+			"uri": "nightelfmale_hd_4529049.png"
+		},
+		{
+			"uri": "nightelfmale_hd_eyereflect.png"
+		}
+	],
+	"textures": [
+		{
+			"source": 0
+		},
+		{
+			"source": 1
+		},
+		{
+			"source": 2
+		},
+		{
+			"source": 3
+		},
+		{
+			"source": 4
+		},
+		{
+			"source": 5
+		},
+		{
+			"source": 6
+		}
+	],
+	"materials": [
+		{
+			"name": "data-1",
+			"emissiveFactor": [
+				0,
+				0,
+				0
+			],
+			"pbrMetallicRoughness": {
+				"baseColorTexture": {
+					"index": 0
+				},
+				"metallicFactor": 0
+			}
+		},
+		{
+			"name": "data-6",
+			"emissiveFactor": [
+				0,
+				0,
+				0
+			],
+			"pbrMetallicRoughness": {
+				"baseColorTexture": {
+					"index": 1
+				},
+				"metallicFactor": 0
+			}
+		},
+		{
+			"name": "data-19",
+			"emissiveFactor": [
+				0,
+				0,
+				0
+			],
+			"pbrMetallicRoughness": {
+				"baseColorTexture": {
+					"index": 2
+				},
+				"metallicFactor": 0
+			}
+		},
+		{
+			"name": "data-10",
+			"emissiveFactor": [
+				0,
+				0,
+				0
+			],
+			"pbrMetallicRoughness": {
+				"baseColorTexture": {
+					"index": 3
+				},
+				"metallicFactor": 0
+			}
+		},
+		{
+			"name": "nightelfmale_hd_3540954",
+			"emissiveFactor": [
+				0,
+				0,
+				0
+			],
+			"pbrMetallicRoughness": {
+				"baseColorTexture": {
+					"index": 4
+				},
+				"metallicFactor": 0
+			}
+		},
+		{
+			"name": "nightelfmale_hd_4529049",
+			"emissiveFactor": [
+				0,
+				0,
+				0
+			],
+			"pbrMetallicRoughness": {
+				"baseColorTexture": {
+					"index": 5
+				},
+				"metallicFactor": 0
+			}
+		},
+		{
+			"name": "nightelfmale_hd_eyereflect",
+			"emissiveFactor": [
+				0,
+				0,
+				0
+			],
+			"pbrMetallicRoughness": {
+				"baseColorTexture": {
+					"index": 6
+				},
+				"metallicFactor": 0
+			}
+		}
+	]
+}
