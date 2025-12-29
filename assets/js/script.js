@@ -16,7 +16,7 @@
                     contentBox.innerHTML = `
                         <h2>Bug Tracker</h2>
                         <p>Found a bug? Report it via our Discord or GitHub bug tracker.</p>
-                        <p><a href="https://github.com/YourServer/bugtracker" target="_blank">Go to Bugtracker</a></p>
+                        <p><a href="https://github.com/RebeccaNod1/wow.richardf.us/issues" target="_blank">Go to Bugtracker</a></p>
                     `;
                 } else if (tab === 'stream') {
                     contentBox.innerHTML = `

@@ -165,7 +165,7 @@ $result = $site_db->query($query);
         die(translate('error_footer_not_found', 'Error: Footer file not found.'));
     }
     ?>
-    <script src="<?php echo $base_path; ?>assets/js/home.js"></script>
+    <script src="<?php echo $base_path; ?>assets/js/home.js?v=3"></script>
 </body>
 
 </html>
